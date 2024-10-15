@@ -58,3 +58,15 @@ footer{
     font-size: 1.4vw;
     padding: 2rem;
 }
+
+.pergunta-cartao{
+    color: var(--branco);
+    font-weight: 500;
+
+}
+
+.resposta-cartao{
+    color: var(--destaque);
+    font-weight: 500;
+
+}
