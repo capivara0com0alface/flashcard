@@ -40,5 +40,11 @@ footer{
     text-align: center;
     height: 100%;
     color: var(--branco);
+}
+
+.conteudo-cartao h3{
+    color: var(--destaque);
+border: 1px solid var(--destaque);
+
 
 }
