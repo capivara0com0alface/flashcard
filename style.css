@@ -33,5 +33,12 @@ footer{
     flex-basis: calc(33% - 6rem);
     height: 20rem;
     margin: 1rem;
-    
+}
+
+.conteudo-cartao{
+    background-color: var(--cartao-frente);
+    text-align: center;
+    height: 100%;
+    color: var(--branco);
+
 }
