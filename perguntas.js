@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'História',
-    'Qual o prsidente brasileiro levou um golpe militar',
+    'Qual o presidente brasileiro levou um golpe militar',
     'João Goulart'
 )
 
