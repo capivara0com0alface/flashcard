@@ -60,6 +60,7 @@ footer{
     margin-top: 4rem;
     font-size: 1.4vw;
     padding: 2rem;
+    
 }
 
 .pergunta-cartao{
@@ -72,6 +73,7 @@ footer{
     color: var(--destaque);
     font-weight: 700;
     transform: rotateY(180deg);
+
 }
 
 .cartao:hover .conteudo-cartao{
