@@ -11,6 +11,17 @@ body{
     background-color: var(--fundo);
 }
 
+header{
+    background-color: var(--fundo);
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header a{
+    color: var(--branco)
+}
+
 footer{
     position: fixed;
     bottom: 0;
