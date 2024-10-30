@@ -12,7 +12,7 @@ body{
 }
 
 header{
-    background-color: var(--fundo);
+    background-color: var(--cartao-tras);
     padding: 40px;
     display: flex;
     justify-content: space-around;
