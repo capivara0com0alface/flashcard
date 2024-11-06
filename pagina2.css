@@ -30,3 +30,20 @@ footer{
     width: 100%;
     text-align: center;
 }
+
+#container{
+    display: grid;
+    padding: 40px;
+    gap: 4rem;
+}
+
+.conteudo-cartao{
+padding: 40px;
+background-color: var(--cartao-frente);
+color: var(--branco);
+}
+
+.resposta-cartao{
+padding: 40px;
+background-color: var(--cartao-tras);
+}
