@@ -48,6 +48,7 @@ cursor: pointer;
 .resposta-cartao{
 padding: 40px;
 background-color: var(--cartao-tras);
+display: none;
 }
 
 .conteudo-cartao:hover{
